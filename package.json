@@ -1,0 +1,24 @@
+{
+  "name": "k-stream-test",
+  "version": "1.0.0",
+  "description": "Sample nodejs client to connect and consume Kafka streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jishnuap/k-stream-test.git"
+  },
+  "keywords": [
+    "Kafka",
+    "Node",
+    "Stream"
+  ],
+  "author": "Jishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jishnuap/k-stream-test/issues"
+  },
+  "homepage": "https://github.com/jishnuap/k-stream-test#readme"
+}
